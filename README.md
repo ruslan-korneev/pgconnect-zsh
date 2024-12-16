@@ -5,7 +5,7 @@
 
 ### Installation
 ```zsh
-git clone ... ${ZSH_CUSTOM}/plugins/.
+git clone git@github.com:ruslan-korneev/pgconnect-zsh.git ${ZSH_CUSTOM}/plugins/pgconnect
 ```
 
 - add this plugin to `.zshrc`
