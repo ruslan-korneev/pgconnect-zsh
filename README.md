@@ -97,6 +97,8 @@ dbname=appdb
 sslmode=require
 ```
 
+For more detailed information on configuring these files, refer to the [PostgreSQL documentation on connection service files](https://www.postgresql.org/docs/current/libpq-pgservice.html) and [password file](https://www.postgresql.org/docs/current/libpq-pgpass.html).
+
 2) Optional: set up ~/.pgpass for passwordless connections in preview/exec:
 
 ```
